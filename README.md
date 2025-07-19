@@ -1,13 +1,10 @@
-<h1 align="center">🤖Trabajo Final - VC Reconocimiento facial 24/25</h1>
+<h1 align="center">🤖Reconocimiento facial</h1>
 
 <div align="center">
 <img width="500px" src="assets/img/portada.png">
 </div>
 
-Se ha completado el **Trabajo final** para la asignatura **Visión por Computador**.  Reconocimiento Facial. Consiste en aplicar distintas tecnicas
-de recocimiento facial para poder reconocer personas.
-
-*Trabajo realizado por*:
+*Realizado por*:
 
 [![GitHub](https://img.shields.io/badge/GitHub-Heliot%20J.%20Segura%20Gonzalez-darkblue?style=flat-square&logo=github)](https://github.com/kratoscordoba7)
 
@@ -67,14 +64,6 @@ o
 pip install -r requirements.txt
 ```
 Tras estos pasos debería poder ejecutar el proyecto localmente
-
-<h2>📋 Motivación/argumentación del trabajo</h2>
-
-<img align="left" width="200px" src="assets/img/model.png">  
-Nuestro trabajo de curso se centra en el <b>reconocimiento facial</b>, una temática que nos despierta <b>curiosidad</b> 🧐 debido al funcionamiento y comportamiento de las <b>aplicaciones típicas nativas en dispositivos móviles</b> 📱 de la última década. 
-<br><br>
-Consideramos que el <b>reconocimiento facial</b> es un área <b>fascinante</b> ✨ que permite aplicar <b>técnicas y metodologías avanzadas de visión por computador</b> , ofreciendo una <b>oportunidad única</b> para explorar y desarrollar <b>soluciones innovadoras</b>. 💡
-<br><br>
 
 ### Alcance y objetivo de la propuesta
 
