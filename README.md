@@ -1,14 +1,9 @@
 <h1 align="center">🤖Reconocimiento facial</h1>
 
-<div align="center">
-<img width="500px" src="assets/img/portada.png">
-</div>
-
 *Realizado por*:
 
-[![GitHub](https://img.shields.io/badge/GitHub-Heliot%20J.%20Segura%20Gonzalez-darkblue?style=flat-square&logo=github)](https://github.com/kratoscordoba7)
-
 [![GitHub](https://img.shields.io/badge/GitHub-Alejandro%20D.%20Arzola%20Saavedra%20-purple?style=flat-square&logo=github)](https://github.com/AlejandroDavidArzolaSaavedra)
+[![GitHub](https://img.shields.io/badge/GitHub-Heliot%20J.%20Segura%20Gonzalez-darkblue?style=flat-square&logo=github)](https://github.com/kratoscordoba7)
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -37,14 +32,10 @@ Para comenzar con el proyecto, sigue estos pasos:
 > Debes de situarte en un environment configurado como se definió en el cuaderno de la práctica de [otsedom](https://github.com/otsedom/otsedom.github.io/blob/main/VC/P1/README.md#111-comandos-basicos-de-anaconda).
 
 ### Paso 1: Abrir VSCode y situarse en el directorio:
-   
-   `C:\Users\TuNombreDeUsuario\anaconda3\envs\Trabajo_Final_VC
-   
+     
 ### Paso 2: Clonar y trabajar en el proyecto localmente (VS Code)
 1. **Clona el repositorio**: Ejecuta el siguiente comando en tu terminal para clonar el repositorio:
-   ```bash
-   git clone https://github.com/kratoscordoba7/Trabajo_Final_VC.git
-   ```
+
 2. Una vez clonado, todos los archivos han de estar situado en el environment del paso 1
 
 ### Paso 3: Abrir Anaconda prompt y activar el environment:
@@ -70,12 +61,6 @@ Tras estos pasos debería poder ejecutar el proyecto localmente
 Nuestro objetivo ha sido poder **reconocer personas** y **identificarlas**, ya sea de manera individual o en grupos, explorando distintas técnicas, librerías y tecnologías que nos permitieran investigar y probar hasta **dónde podíamos llegar**. 🔍💡 Durante el proceso, nos enfocamos en experimentar con diversas herramientas y enfoques, con la intención de maximizar el rendimiento y obtener resultados óptimos. 👩‍💻📊
 
 ### Uso/Controles 📖💻
-
-Una vez tengamos todas las librerías instaladas, debemos dirigirnos al archivo `main.py` y ejecutarlo. Para ello, basta con hacer clic en el botón indicado en la imagen siguiente: 
-
-<div align="center">
-   <img width="800px" src="assets/img/how_to_run.png">
-</div>
 
 Al iniciar el programa, este nos dará la bienvenida y nos ofrecerá dos opciones para seleccionar. Estas opciones están diseñadas pensando en la flexibilidad del usuario:  
 
@@ -530,26 +515,6 @@ Se emplea la selección por torneo como método para elegir a los mejores indivi
 
 En orden de relevancia, el segundo modelo con mejor comportamiento fue Eigenfaces, seguido por Fisherfaces, que mostró el rendimiento más bajo entre los tres. Por esta razón, el algoritmo da prioridad a los pesos asociados a LBPH, asignándoles una mayor influencia en el proceso de combinación de resultados.
 
-
-
-### Vídeo resumen de venta del trabajo
-
-
-
-https://github.com/user-attachments/assets/0a20088e-7f82-4f6e-b100-78a7db3b75c6
-
-
-
-[Enlace al video](https://cdn.glitch.global/e09a0fa9-a9d5-442b-a281-52be27442967/Video%20sin%20t%C3%ADtulo%20(1).mp4?v=1736192410934)
-
-También puede verse el video dentro de `assets/video/video.mp4`
-
----
-
-
-> [!NOTE]  
-> Muchas gracias por las contribuciones de [otsedom](https://github.com/otsedom/otsedom.github.io/tree/main/VC) y José Ignacio Salas Cáceres.
-
 ---
 
 ## 📚 Fuentes y Tecnologías Utilizadas
@@ -564,15 +529,3 @@ También puede verse el video dentro de `assets/video/video.mp4`
 8. **Rasberry Pi Reconocimiento Facial** [Enlace al artículo](https://pyimagesearch.com/2018/06/25/raspberry-pi-face-recognition/)
 9. **Face spoofing detection** [Enlace al artículo](https://link.springer.com/article/10.1007/s10044-020-00937-x) 
 
----
-
-<img align="left" width="160" height="160" src="assets/img/face_final.png"></a>
-
-**Universidad de Las Palmas de Gran Canaria**  
-
-EII - Grado de Ingeniería Informática  
-Obra bajo licencia de Creative Commons Reconocimiento - No Comercial 4.0 Internacional
-
-Tienen total libertad para utilizar el código. Espero que este repositorio haya sido de utilidad. Al final, queriamos ver qué lográbamos alcanzar con los recursos disponibles.
-
----
